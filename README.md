@@ -13,3 +13,31 @@ A desktop-based offline image similarity search application built with Python, u
 - Open file location directly from results
 
 ## Project Structure
+ImageSearch/
+├── main.py
+├── config.py
+├── core/
+├── ui/
+└── utils/
+
+
+## How to Run
+1. Install dependencies:
+   ```bash
+   pip install torch torchvision faiss-cpu pillow send2trash
+
+2. Run the app:
+   ```bash
+   python main.py
+
+Academic Info
+Student Name: Li Zhe
+Student ID: U2320772D
+Institution: Nanyang Technological University (NTU)
+
+
+Next:
+```bash
+git add README.md
+git commit -m "Add README for FYP"
+git push
