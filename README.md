@@ -30,11 +30,6 @@ ImageSearch/
    ```bash
    python main.py
 
-Academic Info
-Student Name: Li Zhe
-Student ID: U2320772D
-Institution: Nanyang Technological University (NTU)
-
 
 Next:
 ```bash
