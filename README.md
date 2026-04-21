@@ -28,6 +28,7 @@ A desktop-based offline image similarity search application that uses ResNet50 d
    pip install torch torchvision faiss-cpu pillow send2trash
    
 2. Run the app:
+   ```bash
    python main.py
    
    
