@@ -31,7 +31,6 @@ A desktop-based offline image similarity search application that uses ResNet50 d
    ```bash
    python main.py
    
-   
 ## NTU FYP Information
 - Student: Li Zhe
 - Project Title: Similar Image Search System
